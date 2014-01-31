@@ -7,7 +7,7 @@
 <title>Logoff</title>
 </head>
 <body>
-<H2>Thank you for using Columbia Campus Activity. You have successfully logged off.</H2>
+<H2>Thank you for using Campus Activity. You have successfully logged off.</H2>
 
 </body>
 
