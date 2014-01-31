@@ -7,7 +7,7 @@
 <title>Columbia Campus Activity (CCA)</title>
 </head>
 <body>
-<H2>Welcome to Columbia Campus Activity (CCA)</H2>
+<H2>Welcome to Campus Activity (CCA)</H2>
 <br>
 If you have an account, please logon here.
 <br><br>
