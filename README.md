@@ -1,6 +1,6 @@
 Database-System-for-a-Restaurant
 ================================
-This project is a database an Online Restaurant. Each customer has user id, name, address, telephone and password. 
+This project is an Online Restaurant for database course. Each customer has user id, name, address, telephone and password. 
 
 After Sign-on with user id and password, customer can view menu online. The menu contains a variety of choices ranging from Appetizer, Soup, Fruit &Salad and Lunch special. Each dish has detailed description such as ingredient, service hour, price and discount information. 
 
